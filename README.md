@@ -34,3 +34,4 @@ The checks disabled due to this are:
 For help with Pylint, [check out their documentation](http://docs.pylint.org/).
 
 If you're running into a Code Climate issue, first look over this project's [GitHub Issues](https://github.com/mikebryant/codeclimate-pylint/issues), as your question may have already been covered. If not, [go ahead and open a support ticket with us](https://codeclimate.com/help).
+
